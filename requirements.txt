@@ -4,3 +4,4 @@ langchain-community
 langchain-openai
 beautifulsoup4
 termcolor
+python-dotenv
