@@ -1,0 +1,6 @@
+langchain-core
+langgraph
+langchain-community
+langchain-openai
+beautifulsoup4
+termcolor
